@@ -12,7 +12,7 @@ import CustomerForm from './components/form/CustomForm';
 const App =() => {
   return (
     <div className="App">
-      <h2>This is working fine</h2>
+      <h2>Easy Guide For You</h2>
       <Container>
         <CustomerForm/>
       </Container>
